@@ -1,0 +1,11 @@
+Package: HotHand
+Type: Package
+Title: Do you have a HotHand or is regression to the mean coming?
+Version: 0.1.0
+Author: Joel Embiid
+Maintainer: The package maintainer <hothandnba@gmail.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
